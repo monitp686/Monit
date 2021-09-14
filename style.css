@@ -1,0 +1,78 @@
+    body {
+        font-family: Helvetica, sans-serif;
+        color: antiquewhite;
+        background-image: url("img/01.jpg");
+        background-color: black;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        margin: 0px;
+        text-align: center;
+    }
+    
+    h1 {
+        color: black;
+        margin-top: 200px;
+        margin-bottom: 15px;
+        font-family: 'Allison', cursive;
+        font-size: 5rem;
+    }
+    
+    h2 {
+        color: #b3b3b3;
+    }
+    
+    h3 {
+        color: #b3b3b3;
+    }
+    
+    p {
+        color: #404040;
+    }
+    
+    .subheading {
+        color: black;
+        font-family: 'Press Start 2P', cursive;
+        margin: 25px;
+    }
+    
+    .middle-container {
+        width: 50%;
+        margin: 100px auto 0px auto;
+    }
+    
+    .profile {
+        margin-top: 430px;
+        margin-bottom: 25px;
+    }
+    
+    .pp {
+        height: 20%;
+        width: 20%;
+    }
+    
+    .computer {
+        width: 25%;
+        float: left;
+        margin-right: 15px;
+    }
+    
+    .logic {
+        width: 25%;
+        float: right;
+    }
+    
+    .skill-row {
+        margin: 100px auto 100px auto;
+        text-align: left;
+        line-height: 2;
+    }
+    
+    hr {
+        border: 5px dotted;
+        border-bottom: none;
+        width: 50px;
+    }
+    
+    .contact-me {
+        margin-top: 35px;
+    }
